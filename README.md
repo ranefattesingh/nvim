@@ -19,4 +19,4 @@ package](https://aur.archlinux.org/packages/nvim-packer-git/).
 git clone https://github.com/wbthomason/packer.nvim "$env:LOCALAPPDATA\nvim-data\site\pack\packer\start\packer.nvim"
 ```
 
-third install `ripgrep` from here https://github.com/BurntSushi/ripgrep
+third install `ripgrep` [from here](https://github.com/BurntSushi/ripgrep).
