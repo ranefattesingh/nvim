@@ -20,3 +20,5 @@ git clone https://github.com/wbthomason/packer.nvim "$env:LOCALAPPDATA\nvim-data
 ```
 
 third install `ripgrep` [from here](https://github.com/BurntSushi/ripgrep).
+
+at this point we have mason installed in our neovim to use it simply type ```:Mason``` and hit enter to see all available language parsers
