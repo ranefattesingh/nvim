@@ -1,7 +1,21 @@
 # My custom neovim setup inspired from [ThePrimeagen](https://www.youtube.com/watch?v=w7i4amO_zaE)
 
 ## Quickstart
-To get started, second clone packer repository to somewhere on your `packpath`, e.g.:
+To get started, first clone this repo in nvim config directory, e.g:
+
+> Unix, Linux Installation
+
+```shell
+git clone --depth 1 https://github.com/ranefattesingh/nvim.git ~/.config/nvim
+```
+
+> Windows Powershell Installation
+
+```shell
+git clone --depth 1 https://github.com/ranefattesingh/nvim.git  %userprofile%\AppData\Local\nvim
+```
+
+second clone packer repository to somewhere on your `packpath`, e.g.:
 
 > Unix, Linux Installation
 
