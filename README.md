@@ -33,6 +33,8 @@ package](https://aur.archlinux.org/packages/nvim-packer-git/).
 git clone https://github.com/wbthomason/packer.nvim "$env:LOCALAPPDATA\nvim-data\site\pack\packer\start\packer.nvim"
 ```
 
-third install `ripgrep` [from here](https://github.com/BurntSushi/ripgrep).
+third open file `your-nvim-path/nvim/lua/ranefattesingh/packer.lua` using `nvim`, note you may face some errors but you can ignore them by simply hitting enter keys untill you come to the nvim screen then run `so` to source this file and then run `PackerSync` download all packages which are dependent
+
+fourth install `ripgrep` [from here](https://github.com/BurntSushi/ripgrep).
 
 at this point we have mason installed in our neovim to use it simply type ```:Mason``` and hit enter to see all available language parsers
