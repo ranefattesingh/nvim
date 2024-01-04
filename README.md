@@ -1,4 +1,4 @@
-# My custom neovim setup inspired from ThePrimeGen
+# My custom neovim setup inspired from [ThePrimeagen](https://www.youtube.com/watch?v=w7i4amO_zaE)
 
 ## Quickstart
 To get started, second clone packer repository to somewhere on your `packpath`, e.g.:
